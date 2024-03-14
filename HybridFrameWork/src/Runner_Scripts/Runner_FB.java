@@ -22,7 +22,7 @@ public class Runner_FB extends BaseClass
 		 fl.password(PWD);
 		 Thread.sleep(4000);
 		 fl.login();
-		 System.out.println("this testcase will be executed done");
+		 System.out.println("tbdfhhdhhis testcase will be executed done");
 			 
 	}
 	
